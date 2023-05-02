@@ -2,7 +2,7 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-04-26
+**Last updated:** 2023-05-02
 
 | #   | Title | Solution | Difficulty |
 |-----| ----- |----------| ---------- |
@@ -10,3 +10,6 @@
 | 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Python   | Medium |
 | 3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Python   | Medium |
 | 4   | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Python   | Hard |
+|     | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Python   | Medium |
+|     | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Python   | Medium |
+| 7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Python   | Medium |
