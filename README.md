@@ -2,7 +2,9 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-05-02
+**Last updated:** 2023-05-03
+
+**Count:** 6
 
 | #   | Title | Solution | Difficulty |
 |-----| ----- |----------| ---------- |
@@ -13,3 +15,4 @@
 |     | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Python   | Medium |
 |     | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Python   | Medium |
 | 7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Python   | Medium |
+| 8   | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Python   | Medium |
