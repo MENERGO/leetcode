@@ -4,7 +4,7 @@
 
 **Last updated:** 2023-05-03
 
-**Count:** 6
+**Count:** 7
 
 | #   | Title | Solution | Difficulty |
 |-----| ----- |----------| ---------- |
@@ -16,3 +16,4 @@
 |     | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Python   | Medium |
 | 7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Python   | Medium |
 | 8   | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Python   | Medium |
+| 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Python   | Easy |
