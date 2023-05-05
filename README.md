@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-05-04
+**Last updated:** 2023-05-05
 
-**Count:** 8
+**Count:** 10
 
-<span style="color:green">Easy:</span> 2<span style="color:grey">/659</span>
+<span style="color:green">Easy:</span> 4<span style="color:grey">/659</span>
 
 <span style="color:orange">Medium:</span> 5<span style="color:grey">/1416</span>
 
@@ -15,6 +15,8 @@
 
 | #   | Title | Solution | Difficulty |
 |-----| ----- |----------| ---------- |
+| 14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Python   | Easy |
+| 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Python   | Easy |
 | 12  | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Python   | Medium |
 |     | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Python   | Medium |
 |     | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Python   | Hard |
