@@ -2,19 +2,23 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-05-08
+**Last updated:** 2023-05-12
 
-**Count:** 12
+**Count:** 15
 
-<span style="color:green">Easy:</span> 4<span style="color:grey">/659</span>
+<span style="color:green">Easy:</span> 6<span style="color:grey">/659</span>
 
-<span style="color:orange">Medium:</span> 7<span style="color:grey">/1416</span>
+<span style="color:orange">Medium:</span> 8<span style="color:grey">/1416</span>
 
 <span style="color:red">Hard:</span> 1<span style="color:grey">/592</span>
 
 
 | #   | Title | Solution | Difficulty |
 |-----| ----- |----------| ---------- |
+| 21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Python   | Easy |
+| 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Python   | Easy |
+| 19  |  | Python   | Medium |
+| 18  | [4Sum](https://leetcode.com/problems/4sum/) | Python   | Medium |
 | 17  | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Python   | Medium |
 | 16  | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Python   | Medium |
 |     | [3Sum](https://leetcode.com/problems/3sum/) | Python   | Medium |
