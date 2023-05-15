@@ -2,19 +2,29 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-05-12
+**Last updated:** 2023-05-15
 
-**Count:** 15
+**Count:** 22
 
-<span style="color:green">Easy:</span> 6<span style="color:grey">/659</span>
+<span style="color:green">Easy:</span> 10<span style="color:grey">/659</span>
 
-<span style="color:orange">Medium:</span> 8<span style="color:grey">/1416</span>
+<span style="color:orange">Medium:</span> 11<span style="color:grey">/1416</span>
 
 <span style="color:red">Hard:</span> 1<span style="color:grey">/592</span>
 
 
 | #   | Title | Solution | Difficulty |
 |-----| ----- |----------| ---------- |
+| ... |  |    |  |
+| 36  | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Python   | Medium |
+| 35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Python   | Easy |
+| 34  | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Python   | Medium |
+| ... |  |    |  |
+| 29  | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | Python   | Medium |
+| 28  | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Python   | Easy |
+| 27  | [Remove Element](https://leetcode.com/problems/remove-element/) | Python   | Easy |
+| 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Python   | Easy |
+| ... |  |    |  |
 | 21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Python   | Easy |
 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Python   | Easy |
 | 19  |  | Python   | Medium |
