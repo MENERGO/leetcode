@@ -2,19 +2,25 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-05-15
+**Last updated:** 2023-05-16
 
-**Count:** 22
+**Count:** 25
 
 <span style="color:green">Easy:</span> 10<span style="color:grey">/659</span>
 
-<span style="color:orange">Medium:</span> 11<span style="color:grey">/1416</span>
+<span style="color:orange">Medium:</span> 14<span style="color:grey">/1416</span>
 
 <span style="color:red">Hard:</span> 1<span style="color:grey">/592</span>
 
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 50  | [Pow(x, n)](https://leetcode.com/problems/powx-n/)                                                                                                | Python   | Medium     |
+| ... |                                                                                                                                                   |          |            |
+| 48  | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                                       | Python   | Medium     |
+| ... |                                                                                                                                                   |          |            |
+| 38  | [Count and Say](https://leetcode.com/problems/count-and-say/)                                                                                     | Python   | Medium     |
 | ... |                                                                                                                                                   |          |            |
 | 36  | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                                       | Python   | Medium     |
 | 35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                                   | Python   | Easy       |
