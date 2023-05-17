@@ -4,9 +4,9 @@
 
 **Last updated:** 2023-05-16
 
-**Count:** 25
+**Count:** 26
 
-<span style="color:green">Easy:</span> 10<span style="color:grey">/659</span>
+<span style="color:green">Easy:</span> 11<span style="color:grey">/659</span>
 
 <span style="color:orange">Medium:</span> 14<span style="color:grey">/1416</span>
 
@@ -15,6 +15,8 @@
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 58  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                                                         | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 50  | [Pow(x, n)](https://leetcode.com/problems/powx-n/)                                                                                                | Python   | Medium     |
 | ... |                                                                                                                                                   |          |            |
