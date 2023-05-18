@@ -2,19 +2,24 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-05-16
+**Last updated:** 2023-05-18
 
-**Count:** 26
+**Count:** 30
 
-<span style="color:green">Easy:</span> 11<span style="color:grey">/659</span>
+<span style="color:green">Easy:</span> 13<span style="color:grey">/659</span>
 
 <span style="color:orange">Medium:</span> 14<span style="color:grey">/1416</span>
 
-<span style="color:red">Hard:</span> 1<span style="color:grey">/592</span>
+<span style="color:red">Hard:</span> 3<span style="color:grey">/592</span>
 
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 68  | [Text Justification](https://leetcode.com/problems/text-justification/)                                                                           | Python   | Hard       |
+| 67  | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                                           | Python   | Easy       |
+| 66  | [Plus One](https://leetcode.com/problems/plus-one/)                                                                                               | Python   | Easy       |
+| 65  | [Valid Number](https://leetcode.com/problems/valid-number/)                                                                                       | Python   | Hard       |
 | ... |                                                                                                                                                   |          |            |
 | 58  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                                                         | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
