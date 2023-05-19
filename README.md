@@ -2,13 +2,13 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-05-18
+**Last updated:** 2023-05-19
 
-**Count:** 30
+**Count:** 33
 
-<span style="color:green">Easy:</span> 13<span style="color:grey">/659</span>
+<span style="color:green">Easy:</span> 15<span style="color:grey">/659</span>
 
-<span style="color:orange">Medium:</span> 14<span style="color:grey">/1416</span>
+<span style="color:orange">Medium:</span> 15<span style="color:grey">/1416</span>
 
 <span style="color:red">Hard:</span> 3<span style="color:grey">/592</span>
 
@@ -16,6 +16,9 @@
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
 | ... |                                                                                                                                                   |          |            |
+| 71  | [Simplify Path](https://leetcode.com/problems/simplify-path/)                                                                                     | Python   | Medium     |
+| 70  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                                 | Python   | Easy       |
+| 69  | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                                                   | Python   | Easy       |
 | 68  | [Text Justification](https://leetcode.com/problems/text-justification/)                                                                           | Python   | Hard       |
 | 67  | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                                           | Python   | Easy       |
 | 66  | [Plus One](https://leetcode.com/problems/plus-one/)                                                                                               | Python   | Easy       |
