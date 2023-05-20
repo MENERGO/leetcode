@@ -4,17 +4,19 @@
 
 **Last updated:** 2023-05-19
 
-**Count:** 33
+**Count:** 34
 
 <span style="color:green">Easy:</span> 15<span style="color:grey">/659</span>
 
-<span style="color:orange">Medium:</span> 15<span style="color:grey">/1416</span>
+<span style="color:orange">Medium:</span> 16<span style="color:grey">/1416</span>
 
 <span style="color:red">Hard:</span> 3<span style="color:grey">/592</span>
 
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 75  | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                                                                         | Python   | Medium     |
 | ... |                                                                                                                                                   |          |            |
 | 71  | [Simplify Path](https://leetcode.com/problems/simplify-path/)                                                                                     | Python   | Medium     |
 | 70  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                                 | Python   | Easy       |
