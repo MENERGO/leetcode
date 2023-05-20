@@ -6,11 +6,11 @@
 
 **Count:** 34
 
-<span style="color:green">Easy:</span> 15<span style="color:grey">/659</span>
+<span style="color:green">Easy:</span> 15<span style="color:grey">/669</span>
 
-<span style="color:orange">Medium:</span> 16<span style="color:grey">/1416</span>
+<span style="color:orange">Medium:</span> 16<span style="color:grey">/1432</span>
 
-<span style="color:red">Hard:</span> 3<span style="color:grey">/592</span>
+<span style="color:red">Hard:</span> 3<span style="color:grey">/594</span>
 
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
