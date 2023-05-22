@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-05-20
+**Last updated:** 2023-05-22
 
-**Count:** 34
+**Count:** 35
 
-<span style="color:green">Easy:</span> 15<span style="color:grey">/669</span>
+<span style="color:green">Easy:</span> 16<span style="color:grey">/669</span>
 
 <span style="color:orange">Medium:</span> 16<span style="color:grey">/1432</span>
 
@@ -15,6 +15,8 @@
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                                           | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 75  | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                                                                         | Python   | Medium     |
 | ... |                                                                                                                                                   |          |            |
