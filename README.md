@@ -2,19 +2,22 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-05-22
+**Last updated:** 2023-05-23
 
-**Count:** 35
+**Count:** 36
 
-<span style="color:green">Easy:</span> 16<span style="color:grey">/669</span>
+<span style="color:green">Easy:</span> 18<span style="color:grey">/671</span>
 
-<span style="color:orange">Medium:</span> 16<span style="color:grey">/1432</span>
+<span style="color:orange">Medium:</span> 16<span style="color:grey">/1433</span>
 
-<span style="color:red">Hard:</span> 3<span style="color:grey">/594</span>
+<span style="color:red">Hard:</span> 3<span style="color:grey">/595</span>
 
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)                                                                        | Python   | Easy       |
+| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                                                              | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                                           | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
