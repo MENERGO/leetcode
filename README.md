@@ -2,18 +2,21 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-05-25
+**Last updated:** 2023-05-26
 
-**Count:** 38
+**Count:** 40
 
-<span style="color:green">Easy:</span> 20<span style="color:grey">/671</span>
+<span style="color:green">Easy:</span> 22<span style="color:grey">/671</span>
 
 <span style="color:orange">Medium:</span> 16<span style="color:grey">/1434</span>
 
-<span style="color:red">Hard:</span> 3<span style="color:grey">/596</span>
+<span style="color:red">Hard:</span> 3<span style="color:grey">/597</span>
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/)                                                                               | Python   | Easy       |
+| 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)                                                               | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/)                                                                                     | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
