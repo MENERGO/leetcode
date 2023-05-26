@@ -4,7 +4,7 @@
 
 **Last updated:** 2023-05-26
 
-**Count:** 40
+**Count:** 41
 
 <span style="color:green">Easy:</span> 22<span style="color:grey">/671</span>
 
