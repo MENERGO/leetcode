@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-05-26
+**Last updated:** 2023-05-29
 
-**Count:** 41
+**Count:** 42
 
-<span style="color:green">Easy:</span> 22<span style="color:grey">/671</span>
+<span style="color:green">Easy:</span> 23<span style="color:grey">/671</span>
 
 <span style="color:orange">Medium:</span> 16<span style="color:grey">/1434</span>
 
@@ -14,6 +14,8 @@
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)                                                             | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/)                                                                               | Python   | Easy       |
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)                                                               | Python   | Easy       |
