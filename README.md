@@ -2,18 +2,21 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-05-29
+**Last updated:** 2023-05-30
 
-**Count:** 42
+**Count:** 44
 
-<span style="color:green">Easy:</span> 23<span style="color:grey">/671</span>
+<span style="color:green">Easy:</span> 24<span style="color:grey">/671</span>
 
-<span style="color:orange">Medium:</span> 16<span style="color:grey">/1434</span>
+<span style="color:orange">Medium:</span> 17<span style="color:grey">/1434</span>
 
 <span style="color:red">Hard:</span> 3<span style="color:grey">/597</span>
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)                                                                     | Oracle   | Medium     |
+| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)                                                                           | MySQl    | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)                                                             | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
