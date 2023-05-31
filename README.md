@@ -2,18 +2,23 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-05-30
+**Last updated:** 2023-05-31
 
-**Count:** 44
+**Count:** 48
 
-<span style="color:green">Easy:</span> 24<span style="color:grey">/671</span>
+<span style="color:green">Easy:</span> 27<span style="color:grey">/671</span>
 
-<span style="color:orange">Medium:</span> 17<span style="color:grey">/1434</span>
+<span style="color:orange">Medium:</span> 18<span style="color:grey">/1434</span>
 
 <span style="color:red">Hard:</span> 3<span style="color:grey">/597</span>
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)                                                             | MySQl    | Medium     |
+| 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)                                                             | MySQl    | Easy       |
+| 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)                                                                               | MySQl    | Easy       |
+| 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)                           | MySQl    | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)                                                                     | Oracle   | Medium     |
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)                                                                           | MySQl    | Easy       |
