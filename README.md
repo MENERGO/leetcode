@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-06-02
+**Last updated:** 2023-06-05
 
-**Count:** 51
+**Count:** 52
 
-<span style="color:green">Easy:</span> 30<span style="color:grey">/671</span>
+<span style="color:green">Easy:</span> 31<span style="color:grey">/671</span>
 
 <span style="color:orange">Medium:</span> 18<span style="color:grey">/1434</span>
 
@@ -14,6 +14,8 @@
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                           | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                                                                           | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
