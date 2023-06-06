@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-06-05
+**Last updated:** 2023-06-06
 
-**Count:** 52
+**Count:** 53
 
-<span style="color:green">Easy:</span> 31<span style="color:grey">/671</span>
+<span style="color:green">Easy:</span> 32<span style="color:grey">/671</span>
 
 <span style="color:orange">Medium:</span> 18<span style="color:grey">/1434</span>
 
@@ -14,6 +14,8 @@
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)                                                       | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                           | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
