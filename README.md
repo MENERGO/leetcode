@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-06-07
+**Last updated:** 2023-06-08
 
-**Count:** 54
+**Count:** 55
 
-<span style="color:green">Easy:</span> 33<span style="color:grey">/671</span>
+<span style="color:green">Easy:</span> 34<span style="color:grey">/671</span>
 
 <span style="color:orange">Medium:</span> 18<span style="color:grey">/1434</span>
 
@@ -14,6 +14,8 @@
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 231 | [Power of Two](https://leetcode.com/problems/power-of-two/)                                                                                       | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/)                                                                                   | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
