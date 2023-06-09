@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-06-08
+**Last updated:** 2023-06-09
 
-**Count:** 55
+**Count:** 56
 
-<span style="color:green">Easy:</span> 34<span style="color:grey">/671</span>
+<span style="color:green">Easy:</span> 35<span style="color:grey">/671</span>
 
 <span style="color:orange">Medium:</span> 18<span style="color:grey">/1434</span>
 
@@ -15,6 +15,7 @@
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
 | ... |                                                                                                                                                   |          |            |
+| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)                                                       | Python   | Easy       |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/)                                                                                       | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/)                                                                                   | Python   | Easy       |
