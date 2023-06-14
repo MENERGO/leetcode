@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-06-13
+**Last updated:** 2023-06-14
 
-**Count:** 57
+**Count:** 58
 
-<span style="color:green">Easy:</span> 36<span style="color:grey">/671</span>
+<span style="color:green">Easy:</span> 37<span style="color:grey">/671</span>
 
 <span style="color:orange">Medium:</span> 18<span style="color:grey">/1434</span>
 
@@ -14,6 +14,8 @@
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 258 | [Add Digits](https://leetcode.com/problems/add-digits/)                                                                                           | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                                     | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
