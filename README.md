@@ -2,18 +2,20 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-06-14
+**Last updated:** 2023-06-16
 
-**Count:** 58
+**Count:** 59
 
 <span style="color:green">Easy:</span> 37<span style="color:grey">/671</span>
 
-<span style="color:orange">Medium:</span> 18<span style="color:grey">/1434</span>
+<span style="color:orange">Medium:</span> 19<span style="color:grey">/1434</span>
 
 <span style="color:red">Hard:</span> 3<span style="color:grey">/597</span>
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/)                                                                             | Python   | Medium     |
 | ... |                                                                                                                                                   |          |            |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/)                                                                                           | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
