@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-06-16
+**Last updated:** 2023-06-19
 
-**Count:** 59
+**Count:** 60
 
-<span style="color:green">Easy:</span> 37<span style="color:grey">/671</span>
+<span style="color:green">Easy:</span> 38<span style="color:grey">/671</span>
 
 <span style="color:orange">Medium:</span> 19<span style="color:grey">/1434</span>
 
@@ -14,6 +14,8 @@
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/)                                                                                         | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/)                                                                             | Python   | Medium     |
 | ... |                                                                                                                                                   |          |            |
