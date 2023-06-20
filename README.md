@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-06-19
+**Last updated:** 2023-06-20
 
-**Count:** 60
+**Count:** 61
 
-<span style="color:green">Easy:</span> 38<span style="color:grey">/671</span>
+<span style="color:green">Easy:</span> 39<span style="color:grey">/671</span>
 
 <span style="color:orange">Medium:</span> 19<span style="color:grey">/1434</span>
 
@@ -14,6 +14,8 @@
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/)                                                                                   | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/)                                                                                         | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
