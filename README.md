@@ -2,18 +2,20 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-06-20
+**Last updated:** 2023-06-21
 
-**Count:** 61
+**Count:** 62
 
 <span style="color:green">Easy:</span> 39<span style="color:grey">/671</span>
 
-<span style="color:orange">Medium:</span> 19<span style="color:grey">/1434</span>
+<span style="color:orange">Medium:</span> 20<span style="color:grey">/1434</span>
 
 <span style="color:red">Hard:</span> 3<span style="color:grey">/597</span>
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 274 | [H-Index](https://leetcode.com/problems/h-index/)                                                                                                 | Python   | Medium     |
 | ... |                                                                                                                                                   |          |            |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/)                                                                                   | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
