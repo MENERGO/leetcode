@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-06-21
+**Last updated:** 2023-06-22
 
-**Count:** 62
+**Count:** 63
 
-<span style="color:green">Easy:</span> 39<span style="color:grey">/671</span>
+<span style="color:green">Easy:</span> 40<span style="color:grey">/671</span>
 
 <span style="color:orange">Medium:</span> 20<span style="color:grey">/1434</span>
 
@@ -14,6 +14,8 @@
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/)                                                                             | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 274 | [H-Index](https://leetcode.com/problems/h-index/)                                                                                                 | Python   | Medium     |
 | ... |                                                                                                                                                   |          |            |
