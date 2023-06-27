@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-06-26
+**Last updated:** 2023-06-27
 
-**Count:** 64
+**Count:** 65
 
-<span style="color:green">Easy:</span> 40<span style="color:grey">/671</span>
+<span style="color:green">Easy:</span> 41<span style="color:grey">/671</span>
 
 <span style="color:orange">Medium:</span> 21<span style="color:grey">/1434</span>
 
@@ -14,6 +14,8 @@
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                                         | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/)                                                                                 | Python   | Medium     |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/)                                                                             | Python   | Easy       |
