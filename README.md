@@ -2,18 +2,20 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-06-27
+**Last updated:** 2023-06-28
 
-**Count:** 65
+**Count:** 66
 
 <span style="color:green">Easy:</span> 41<span style="color:grey">/671</span>
 
-<span style="color:orange">Medium:</span> 21<span style="color:grey">/1434</span>
+<span style="color:orange">Medium:</span> 22<span style="color:grey">/1434</span>
 
 <span style="color:red">Hard:</span> 3<span style="color:grey">/597</span>
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                                             | Python   | Medium     |
 | ... |                                                                                                                                                   |          |            |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                                         | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
