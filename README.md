@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-06-29
+**Last updated:** 2023-07-03
 
-**Count:** 67
+**Count:** 68
 
-<span style="color:green">Easy:</span> 42<span style="color:grey">/671</span>
+<span style="color:green">Easy:</span> 43<span style="color:grey">/671</span>
 
 <span style="color:orange">Medium:</span> 22<span style="color:grey">/1434</span>
 
@@ -14,6 +14,8 @@
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 292 | [Nim Game](https://leetcode.com/problems/nim-game/)                                                                                               | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/)                                                                                       | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
