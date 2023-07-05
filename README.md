@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-07-03
+**Last updated:** 2023-07-05
 
-**Count:** 68
+**Count:** 69
 
-<span style="color:green">Easy:</span> 43<span style="color:grey">/671</span>
+<span style="color:green">Easy:</span> 44<span style="color:grey">/671</span>
 
 <span style="color:orange">Medium:</span> 22<span style="color:grey">/1434</span>
 
@@ -14,6 +14,8 @@
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 326 | [Power of Three](https://leetcode.com/problems/power-of-three/)                                                                                   | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/)                                                                                               | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
