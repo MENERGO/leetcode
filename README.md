@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-07-05
+**Last updated:** 2023-07-06
 
-**Count:** 69
+**Count:** 70
 
-<span style="color:green">Easy:</span> 44<span style="color:grey">/671</span>
+<span style="color:green">Easy:</span> 45<span style="color:grey">/671</span>
 
 <span style="color:orange">Medium:</span> 22<span style="color:grey">/1434</span>
 
@@ -14,6 +14,8 @@
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                                                   | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/)                                                                                   | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
