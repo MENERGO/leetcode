@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-07-07
+**Last updated:** 2023-07-10
 
-**Count:** 71
+**Count:** 72
 
-<span style="color:green">Easy:</span> 46<span style="color:grey">/671</span>
+<span style="color:green">Easy:</span> 47<span style="color:grey">/671</span>
 
 <span style="color:orange">Medium:</span> 22<span style="color:grey">/1434</span>
 
@@ -14,6 +14,8 @@
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)                                                           | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)                                                           | Python   | Easy       |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                                                   | Python   | Easy       |
