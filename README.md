@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-07-11
+**Last updated:** 2023-07-13
 
-**Count:** 73
+**Count:** 74
 
-<span style="color:green">Easy:</span> 47<span style="color:grey">/672</span>
+<span style="color:green">Easy:</span> 48<span style="color:grey">/672</span>
 
 <span style="color:orange">Medium:</span> 22<span style="color:grey">/1434</span>
 
@@ -14,6 +14,8 @@
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)                                                                       | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)                                                     | Python   | Easy       |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)                                                           | Python   | Easy       |
