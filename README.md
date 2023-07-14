@@ -2,18 +2,20 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-07-13
+**Last updated:** 2023-07-14
 
-**Count:** 74
+**Count:** 75
 
 <span style="color:green">Easy:</span> 48<span style="color:grey">/672</span>
 
-<span style="color:orange">Medium:</span> 22<span style="color:grey">/1434</span>
+<span style="color:orange">Medium:</span> 23<span style="color:grey">/1434</span>
 
 <span style="color:red">Hard:</span> 3<span style="color:grey">/597</span>
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)                                                                         | Python   | Medium     |
 | ... |                                                                                                                                                   |          |            |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)                                                                       | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
