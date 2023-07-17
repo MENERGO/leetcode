@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-07-14
+**Last updated:** 2023-07-17
 
-**Count:** 75
+**Count:** 76
 
-<span style="color:green">Easy:</span> 48<span style="color:grey">/672</span>
+<span style="color:green">Easy:</span> 49<span style="color:grey">/672</span>
 
 <span style="color:orange">Medium:</span> 23<span style="color:grey">/1434</span>
 
@@ -14,6 +14,8 @@
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)                                                       | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)                                                                         | Python   | Medium     |
 | ... |                                                                                                                                                   |          |            |
