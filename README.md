@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-07-17
+**Last updated:** 2023-07-18
 
-**Count:** 76
+**Count:** 77
 
-<span style="color:green">Easy:</span> 49<span style="color:grey">/672</span>
+<span style="color:green">Easy:</span> 50<span style="color:grey">/672</span>
 
 <span style="color:orange">Medium:</span> 23<span style="color:grey">/1434</span>
 
@@ -14,6 +14,8 @@
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                                                                         | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)                                                       | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
