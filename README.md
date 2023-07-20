@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-07-18
+**Last updated:** 2023-07-20
 
-**Count:** 77
+**Count:** 78
 
-<span style="color:green">Easy:</span> 50<span style="color:grey">/672</span>
+<span style="color:green">Easy:</span> 51<span style="color:grey">/672</span>
 
 <span style="color:orange">Medium:</span> 23<span style="color:grey">/1434</span>
 
@@ -14,6 +14,8 @@
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                                           | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                                                                         | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
