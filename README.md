@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-07-20
+**Last updated:** 2023-07-24
 
-**Count:** 78
+**Count:** 79
 
-<span style="color:green">Easy:</span> 51<span style="color:grey">/672</span>
+<span style="color:green">Easy:</span> 53<span style="color:grey">/672</span>
 
 <span style="color:orange">Medium:</span> 23<span style="color:grey">/1434</span>
 
@@ -14,6 +14,8 @@
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/)                                                                         | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                                           | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
