@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-07-24
+**Last updated:** 2023-07-28
 
-**Count:** 79
+**Count:** 80
 
-<span style="color:green">Easy:</span> 53<span style="color:grey">/672</span>
+<span style="color:green">Easy:</span> 54<span style="color:grey">/672</span>
 
 <span style="color:orange">Medium:</span> 23<span style="color:grey">/1434</span>
 
@@ -14,6 +14,8 @@
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                                   | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/)                                                                         | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
