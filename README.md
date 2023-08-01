@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-07-28
+**Last updated:** 2023-08-01
 
-**Count:** 80
+**Count:** 81
 
-<span style="color:green">Easy:</span> 54<span style="color:grey">/672</span>
+<span style="color:green">Easy:</span> 55<span style="color:grey">/672</span>
 
 <span style="color:orange">Medium:</span> 23<span style="color:grey">/1434</span>
 
@@ -14,6 +14,8 @@
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 405 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)                                                 | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                                   | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
