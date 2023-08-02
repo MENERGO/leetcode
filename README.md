@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-08-01
+**Last updated:** 2023-08-02
 
-**Count:** 81
+**Count:** 82
 
-<span style="color:green">Easy:</span> 55<span style="color:grey">/672</span>
+<span style="color:green">Easy:</span> 56<span style="color:grey">/672</span>
 
 <span style="color:orange">Medium:</span> 23<span style="color:grey">/1434</span>
 
@@ -14,6 +14,8 @@
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)                                                                           | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 405 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)                                                 | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
