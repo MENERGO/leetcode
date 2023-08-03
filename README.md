@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-08-02
+**Last updated:** 2023-08-03
 
-**Count:** 82
+**Count:** 83
 
-<span style="color:green">Easy:</span> 56<span style="color:grey">/672</span>
+<span style="color:green">Easy:</span> 57<span style="color:grey">/672</span>
 
 <span style="color:orange">Medium:</span> 23<span style="color:grey">/1434</span>
 
@@ -14,6 +14,8 @@
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                                                             | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)                                                                           | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
