@@ -2,13 +2,13 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-08-03
+**Last updated:** 2023-08-04
 
-**Count:** 83
+**Count:** 84
 
 <span style="color:green">Easy:</span> 57<span style="color:grey">/672</span>
 
-<span style="color:orange">Medium:</span> 23<span style="color:grey">/1434</span>
+<span style="color:orange">Medium:</span> 24<span style="color:grey">/1434</span>
 
 <span style="color:red">Hard:</span> 3<span style="color:grey">/597</span>
 
@@ -145,8 +145,8 @@
 | 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                                             | Python   | Easy       |
 | 8   | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)                                                                 | Python   | Medium     |
 | 7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                                                 | Python   | Medium     |
+| 6   | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)                                                                             | Python   | Medium     |
 |     | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                                     | Python   | Medium     |
-|     | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)                                                                             | Python   | Medium     |
 | 4   | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                                                         | Python   | Hard       |
 | 3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)                   | Python   | Medium     |
 | 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                                                 | Python   | Medium     |
