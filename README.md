@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-08-04
+**Last updated:** 2023-08-07
 
-**Count:** 84
+**Count:** 85
 
-<span style="color:green">Easy:</span> 57<span style="color:grey">/672</span>
+<span style="color:green">Easy:</span> 58<span style="color:grey">/672</span>
 
 <span style="color:orange">Medium:</span> 24<span style="color:grey">/1434</span>
 
@@ -97,6 +97,8 @@
 | 136 | [Single Number](https://leetcode.com/problems/single-number/)                                                                                     | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                               | Python   | Easy       |
+| ... |                                                                                                                                                   |          |            |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                                 | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)                                                                        | Python   | Easy       |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                                                              | Python   | Easy       |
