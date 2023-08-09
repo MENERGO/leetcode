@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-08-08
+**Last updated:** 2023-08-09
 
-**Count:** 86
+**Count:** 87
 
-<span style="color:green">Easy:</span> 59<span style="color:grey">/672</span>
+<span style="color:green">Easy:</span> 60<span style="color:grey">/672</span>
 
 <span style="color:orange">Medium:</span> 24<span style="color:grey">/1434</span>
 
@@ -81,6 +81,7 @@
 | ... |                                                                                                                                                   |          |            |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/)                                                                           | Oracle   | Easy       |
 | ... |                                                                                                                                                   |          |            |
+| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                                                               | Python   | Easy       |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)                                                                                       | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)                                                             | MySQl    | Medium     |
