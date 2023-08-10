@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-08-09
+**Last updated:** 2023-08-10
 
-**Count:** 87
+**Count:** 88
 
-<span style="color:green">Easy:</span> 60<span style="color:grey">/672</span>
+<span style="color:green">Easy:</span> 61<span style="color:grey">/672</span>
 
 <span style="color:orange">Medium:</span> 24<span style="color:grey">/1434</span>
 
@@ -40,6 +40,8 @@
 | ... |                                                                                                                                                   |          |            |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)                                                           | Python   | Easy       |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                                                   | Python   | Easy       |
+| ... |                                                                                                                                                   |          |            |
+| 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                                                                     | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/)                                                                                   | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
