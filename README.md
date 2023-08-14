@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-08-11
+**Last updated:** 2023-08-14
 
-**Count:** 89
+**Count:** 90
 
-<span style="color:green">Easy:</span> 62<span style="color:grey">/672</span>
+<span style="color:green">Easy:</span> 63span style="color:grey">/672</span>
 
 <span style="color:orange">Medium:</span> 24<span style="color:grey">/1434</span>
 
@@ -15,6 +15,7 @@
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
 | ... |                                                                                                                                                   |          |            |
+| 415 | [Add Strings](https://leetcode.com/problems/add-strings/)                                                                                         | Python   | Easy       |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)                                                                       | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                                                             | Python   | Easy       |
