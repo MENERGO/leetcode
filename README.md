@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-08-14
+**Last updated:** 2023-08-21
 
-**Count:** 90
+**Count:** 91
 
-<span style="color:green">Easy:</span> 63span style="color:grey">/672</span>
+<span style="color:green">Easy:</span> 64span style="color:grey">/672</span>
 
 <span style="color:orange">Medium:</span> 24<span style="color:grey">/1434</span>
 
@@ -14,6 +14,8 @@
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)                                                   | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings/)                                                                                         | Python   | Easy       |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)                                                                       | Python   | Easy       |
