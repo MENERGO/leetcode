@@ -2,18 +2,20 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-08-21
+**Last updated:** 2023-08-28
 
-**Count:** 91
+**Count:** 92
 
 <span style="color:green">Easy:</span> 64span style="color:grey">/672</span>
 
-<span style="color:orange">Medium:</span> 24<span style="color:grey">/1434</span>
+<span style="color:orange">Medium:</span> 25<span style="color:grey">/1434</span>
 
 <span style="color:red">Hard:</span> 3<span style="color:grey">/597</span>
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 443 | [String Compression](https://leetcode.com/problems/string-compression/)                                                                           | Python   | Medium     |
 | ... |                                                                                                                                                   |          |            |
 | 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)                                                   | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
