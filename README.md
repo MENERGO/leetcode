@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-08-28
+**Last updated:** 2023-08-29
 
-**Count:** 92
+**Count:** 93
 
-<span style="color:green">Easy:</span> 64span style="color:grey">/672</span>
+<span style="color:green">Easy:</span> 65span style="color:grey">/672</span>
 
 <span style="color:orange">Medium:</span> 25<span style="color:grey">/1434</span>
 
@@ -14,6 +14,8 @@
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)                               | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/)                                                                           | Python   | Medium     |
 | ... |                                                                                                                                                   |          |            |
