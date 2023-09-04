@@ -2,18 +2,20 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-08-29
+**Last updated:** 2023-09-04
 
-**Count:** 93
+**Count:** 94
 
 <span style="color:green">Easy:</span> 65span style="color:grey">/672</span>
 
-<span style="color:orange">Medium:</span> 25<span style="color:grey">/1434</span>
+<span style="color:orange">Medium:</span> 26<span style="color:grey">/1434</span>
 
 <span style="color:red">Hard:</span> 3<span style="color:grey">/597</span>
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)                                                                           | Python   | Medium     |
 | ... |                                                                                                                                                   |          |            |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)                               | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
