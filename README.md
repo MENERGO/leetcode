@@ -6,7 +6,7 @@
 
 **Count:** 94
 
-<span style="color:green">Easy:</span> 65span style="color:grey">/672</span>
+<span style="color:green">Easy:</span> 65<span style="color:grey">/672</span>
 
 <span style="color:orange">Medium:</span> 26<span style="color:grey">/1434</span>
 
