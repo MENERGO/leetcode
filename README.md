@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-09-04
+**Last updated:** 2023-09-05
 
-**Count:** 94
+**Count:** 95
 
-<span style="color:green">Easy:</span> 65<span style="color:grey">/672</span>
+<span style="color:green">Easy:</span> 66<span style="color:grey">/672</span>
 
 <span style="color:orange">Medium:</span> 26<span style="color:grey">/1434</span>
 
@@ -15,7 +15,9 @@
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
 | ... |                                                                                                                                                   |          |            |
-| 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)                                                                           | Python   | Medium     |
+| 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)                                                           | Python   | Easy       |
+| ... |                                                                                                                                                   |          |            |
+| 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)                                                       | Python   | Medium     |
 | ... |                                                                                                                                                   |          |            |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)                               | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
