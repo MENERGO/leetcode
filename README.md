@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-09-05
+**Last updated:** 2023-09-22
 
-**Count:** 95
+**Count:** 96
 
-<span style="color:green">Easy:</span> 66<span style="color:grey">/672</span>
+<span style="color:green">Easy:</span> 67<span style="color:grey">/672</span>
 
 <span style="color:orange">Medium:</span> 26<span style="color:grey">/1434</span>
 
@@ -14,6 +14,8 @@
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)                                                                               | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)                                                           | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
