@@ -2,18 +2,20 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-09-22
+**Last updated:** 2023-09-25
 
-**Count:** 96
+**Count:** 97
 
 <span style="color:green">Easy:</span> 67<span style="color:grey">/672</span>
 
-<span style="color:orange">Medium:</span> 26<span style="color:grey">/1434</span>
+<span style="color:orange">Medium:</span> 27<span style="color:grey">/1434</span>
 
 <span style="color:red">Hard:</span> 3<span style="color:grey">/597</span>
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 468 | [Validate IP Address](https://leetcode.com/problems/validate-ip-address/)                                                                         | Python   | Medium     |
 | ... |                                                                                                                                                   |          |            |
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)                                                                               | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
