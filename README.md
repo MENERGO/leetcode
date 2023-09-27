@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-09-25
+**Last updated:** 2023-09-27
 
-**Count:** 97
+**Count:** 98
 
-<span style="color:green">Easy:</span> 67<span style="color:grey">/672</span>
+<span style="color:green">Easy:</span> 68<span style="color:grey">/672</span>
 
 <span style="color:orange">Medium:</span> 27<span style="color:grey">/1434</span>
 
@@ -14,6 +14,8 @@
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 476 | [Number Complement](https://leetcode.com/problems/number-complement/)                                                                             | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 468 | [Validate IP Address](https://leetcode.com/problems/validate-ip-address/)                                                                         | Python   | Medium     |
 | ... |                                                                                                                                                   |          |            |
