@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-09-27
+**Last updated:** 2023-09-28
 
-**Count:** 98
+**Count:** 99
 
-<span style="color:green">Easy:</span> 68<span style="color:grey">/672</span>
+<span style="color:green">Easy:</span> 69<span style="color:grey">/672</span>
 
 <span style="color:orange">Medium:</span> 27<span style="color:grey">/1434</span>
 
@@ -14,6 +14,8 @@
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/)                                                                   | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 476 | [Number Complement](https://leetcode.com/problems/number-complement/)                                                                             | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
