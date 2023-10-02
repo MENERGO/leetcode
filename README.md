@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-09-29
+**Last updated:** 2023-10-02
 
-**Count:** 100
+**Count:** 101
 
-<span style="color:green">Easy:</span> 70<span style="color:grey">/672</span>
+<span style="color:green">Easy:</span> 71<span style="color:grey">/672</span>
 
 <span style="color:orange">Medium:</span> 27<span style="color:grey">/1434</span>
 
@@ -15,7 +15,9 @@
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
 | ... |                                                                                                                                                   |          |            |
-| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)                                                                   | Python   | Easy       |
+| 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)                                                                   | Python   | Easy       |
+| ... |                                                                                                                                                   |          |            |
+| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)                                                                       | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/)                                                                   | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
