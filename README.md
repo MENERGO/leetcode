@@ -2,11 +2,11 @@
 
 **Language:** python, sql
 
-**Last updated:** 2023-10-04
+**Last updated:** 2023-10-20
 
-**Count:** 102
+**Count:** 103
 
-<span style="color:green">Easy:</span> 72<span style="color:grey">/672</span>
+<span style="color:green">Easy:</span> 73<span style="color:grey">/672</span>
 
 <span style="color:orange">Medium:</span> 27<span style="color:grey">/1434</span>
 
@@ -14,6 +14,8 @@
 
 | #   | Title                                                                                                                                             | Solution | Difficulty |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| ... |                                                                                                                                                   |          |            |
+| 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/)                                                                                   | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/)                                                                                       | Python   | Easy       |
 | ... |                                                                                                                                                   |          |            |
